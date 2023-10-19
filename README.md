@@ -1,4 +1,9 @@
 # Badges-plugin
+
+This plugin has stopped working, I'm working on a fix but if anyone has a fix for it join my discord!
+
+``Discord``: https://discord.gg/tYM54nEmYc
+
 A better discord plugin that allows the user to have any badge they want (client side)
 
 To start you download better discord @ https://betterdiscord.app
