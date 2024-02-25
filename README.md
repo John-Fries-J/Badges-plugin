@@ -1,6 +1,6 @@
 # Badges-plugin
 
-This plugin has stopped working, I'm working on a fix but if anyone has a fix for it join my discord!
+**This plugin has stopped working, I'm working on a fix but if anyone has a fix for it join my discord!**
 
 ``Discord``: https://discord.gg/tYM54nEmYc
 
