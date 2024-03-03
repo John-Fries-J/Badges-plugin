@@ -4,7 +4,7 @@
  * @authorId 630070645874622494
  * @version 1.0.2
  * @description Simple plugin that gives you all badges
- * @website https://johnfries.net/bot
+ * @website https://johnfries.net
  * @updateUrl https://github.com/John-Fries-J/Badges-plugin/blob/068ee722c9e1416afdde0fc119a5156e9d6d5a21/Badges.plugin.js
  * @source https://github.com/John-Fries-J/Badges-plugin
  * @invite pqXYh3PQtk
