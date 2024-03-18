@@ -13,3 +13,7 @@ Then download the zip and add the badges.plugin.js to your plugins folder and en
 Currently you will have every badge avalible on discord including staff badges and all the hypesquad badges, If you would like to change this head to the plugin and click the pencil button and under ``let flags = {`` remove the line of the badge you dont want!
 
 Remember this is client side!!
+
+## Authors
+
+* **John Fries** - *Developer* - [John Fries](https://github.com/John-Fries-J/) - *Made everything*
