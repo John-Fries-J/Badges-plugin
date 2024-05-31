@@ -1,10 +1,10 @@
 # Badges-plugin
 
-**This plugin NOW WORKS!!!**
+**This plugin DOES NOT WORK BUT THE SCRIP DOES!!!!!!**
 
 ``Discord``: https://discord.gg/tYM54nEmYc
 
-The plugin doesn't currently work but if you're looking to add badges to your profile here is the script to do it.
+The plugin doesn't currently work but if you're looking to add badges to your profile here is the script to do it. Paste this into your dev console
 
 ```
 let chunk =
